@@ -1,3 +1,27 @@
 * { color: red;}
 li {color: magenta;}
 h1 {color: blue}
+
+.kontti {
+    width: 200px;
+    height: 100px;
+    display: block;
+    float: left;
+    margin-right: 40px;
+    position: relative;
+}
+.kontti p {
+    color: black;
+}
+
+.k1 {
+    background-color: red;
+}
+
+.k2 {
+    background-color: yellow;
+}
+
+.k3 {
+    background-color: green;
+}
